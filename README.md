@@ -38,6 +38,6 @@ Desenvolvemos um experimento com interface web, capaz de se comunicar com um rob
 
 Desenvolvemos um projeto incrível de código aberto!
 
-Pessoas apaixonadas e prestativas são bem-vindas para contribuir voluntariamente com cada pedacinho deste projeto: desde nosso site, a documentação até o núcleo da Inteligência Artificial Cognitiva e da Robótica Social. Então, se você gosta de transformação e gostaria de retribuir um pouco de seu talento, nós gostaríamos muito de ver suas contribuições por aqui! 
+Pessoas apaixonadas e prestativas são bem-vindas para contribuir voluntariamente com cada pedacinho deste projeto: desde nosso site, a documentação até o núcleo de Sistemas Cognitivos Artificiais e da Robótica Social. Então, se você gosta de transformação e gostaria de retribuir um pouco de seu talento, nós gostaríamos muito de ver suas contribuições por aqui! 
 
 Não importa se você está iniciando sua carreira no desenvolvimento de produtos tecnológicos ou se já possui experiência avançada, aqui você pode contribuir de inúmeras maneiras!
