@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Logo](https://i.ibb.co/gTPMgG3/factory-mind-t.png)
+![Logo](https://i.imgur.com/E7lCspp.png)
 
 </div>
 
