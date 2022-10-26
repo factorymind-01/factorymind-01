@@ -17,7 +17,7 @@ Social Robotics and Artificial Cognitive Systems Group of Research
 
 Fazer parte deste grupo de pesquisa significa que você integra um projeto desenvolvido com foco no impacto socioeducacional de sistemas cognitivos artificiais e da robótica social, vamos agir diretamente na vida de milhares de pessoas com inovação e tecnologia.
 
-Desenvolvemos um experimento com interface web, capaz de se comunicar com um robô social “físico”, para auxiliar pessoas no desenvolvimento de suas habilidades tecnológicas através de inteligência artificial cognitiva.
+Desenvolvemos um experimento com interface web, capaz de se comunicar com um robô social “físico”, para auxiliar pessoas no desenvolvimento de suas habilidades tecnológicas através de Sistemas Cognitivos artificiais.
 
 ## Grupos de ação
 
